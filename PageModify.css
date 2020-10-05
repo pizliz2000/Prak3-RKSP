@@ -1,0 +1,25 @@
+body {
+    background-color: darkgrey;
+}
+
+h1 {
+    font-style: italic;
+    color: cadetblue;
+}
+
+.a1 {
+    font-style: normal;
+}
+
+.a2 {
+    font-style: oblique;
+}
+
+.a3 {
+    font-style: inherit;
+}
+
+.a4 {
+    vertical-align: 15px;
+    color: blue;
+}
